@@ -1,5 +1,5 @@
 # Binary or Multiclass Text Classification
-# Reference: https://www.youtube.com/watch?v=oreIJQZ40H0
+# Reference: https://github.com/abhishekkrthakur/bert-sentiment
 
 import os
 import tez
